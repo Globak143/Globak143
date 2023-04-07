@@ -1,8 +1,19 @@
-- 👋 Hi, I’m @Globak143
-- 👀 I’m interested in Cloud technology, Software Engineering and Web Development
-- 🌱 I’m currently learning GCP, PEN 200
-- 💞️ I’m looking to collaborate on Open Source Projects, Volunteering and Training in STEM
-- 📫 Reach me @glo_bak on Twitter
+## Hi, I’m Glow! :woman_technologist:
+
+I am a dedicated Information Technology professional of high integrity with over five years of successfully providing hardware, software, network, and end-user support. I am always ready to take the opportunity to learn new skills and committed to continous professional development.
+
+I have keen interest in Cloud Computing. 
+
+- [x] I started my Cloud learning journey with Google Cloud Platform. You can follow my journey on [Twitter](https://twitter.com/glo_bak/).
+- [x] Later i joined Azubi Africa where i learnend AWS and earned my AWS Cloud Practitioner Certificate. You can follow my journey on [linkedin](https://www.linkedin.com/in/gloriaboakye/).
+
+I am interested in Software Engineering, Web Development and looking forward to collaborate on Open Source Projects, Volunteering and Training in STEM.
+
+
+
+
+
+
 
 <!---
 Globak143/Globak143 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

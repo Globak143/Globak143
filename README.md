@@ -8,7 +8,7 @@ I love Cloud Computing and look forward to transitioning from **IT** into a **Cl
 - [x] Later i joined Azubi Africa, where i learned AWS and earned AWS Cloud Practitioner Certificate. You can follow my journey on [linkedIn](https://www.linkedin.com/in/gloriaboakye/).
 - [ ] I am currently learning towards AWS Solution Architect certification.
 
-I am interested in Software Engineering, Web Development and looking forward to collaborate on Open Source Projects, Volunteering and Training in STEM.
+I also am interested in Software Engineering, Web Development and looking forward to collaborate on Open Source Projects, Volunteering and Training in STEM.
 
 
 
